@@ -16,7 +16,10 @@
 
 ## Description
 
-Here you can fin a set of repositories with diverse content related to FAIR data management of experimental Material Science. There are exmaples covering FAIRmat Area A (Synthesis Methods) :diamond_shape_with_a_dot_inside:, Area B (Characterization Methods) :microscope: and Area E (Use case demonstrators) :battery:
+Here you can fin a set of repositories with diverse content related to FAIR data management of experimental Material Science. There are exmaples covering FAIRmat experimental work in:
+- :diamond_shape_with_a_dot_inside: Area A (Synthesis Methods) 
+- :microscope: Area B (Characterization Methods)
+- :battery: Area E (Use case demonstrators) 
 
 ---
 
