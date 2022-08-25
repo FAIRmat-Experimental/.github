@@ -23,7 +23,17 @@ Here you can fin a set of repositories with diverse content related to FAIR data
 
 ---
 
+## Repositories
 
+- [Area_A_application_definitions](https://github.com/FAIRmat-Experimental/Area_A_application_definitions): Application definition / Schemas / data structures fron Area A
+- [Area_A_sample_preparation](https://github.com/FAIRmat-Experimental/Area_A_sample_preparation)
+- [nexus_definitions](https://github.com/FAIRmat-Experimental/nexus_definitions): Definitions of the NeXus Standard File Structure and Contents
+- [nexus-fairmat-proposal](https://github.com/FAIRmat-Experimental/nexus-fairmat-proposal) 
+- [arpes](https://github.com/FAIRmat-Experimental/arpes) 
+- [AreaE_use-cases](https://github.com/FAIRmat-Experimental/AreaE_use-cases) 
+- [software-tools](https://github.com/FAIRmat-Experimental/software-tools) 
+
+---
 ## Links 
 
 - [FAIRmat](https://www.fairmat-nfdi.eu/fairmat/consortium)  
